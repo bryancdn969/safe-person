@@ -1,0 +1,66 @@
+{
+  "LOGIN": "Iniciar sesión",
+  "ENTER": "Ingresar",
+  "CHECK_IN":"Registrarse",
+  "MY_UBICATION":"Ver la ubicación",
+  "WELCOME":"Bienvenido",
+  "WELCOME_TO_SAFE_PERSON":"Bienvenido a SAFE PERSON",
+  "SIGNUP":"Registrate",
+  "ENTER_YOUR_DATA":"Ingrese sus datos",
+  "CHOOSE_A_FRIEND":"Escoga un amigo",
+  "FRIEND": "Amigo",
+
+  "USER_NAME": "Nombre de usuario",
+  "PASSWORD": "Contraseña",
+  "ID": "Identificación",
+  "LOGIN_ERROR":"Usuario y/clave incorrectos",
+  "REQUIRED_DATA":"Por favor complete los datos",
+  
+  "SEARCH":"Buscar",
+  "DATA":"Datos",
+  "PROFILE":"Perfil",
+  "DATA_OF_USER":"Datos de usuario",
+  "FIRST_NAME":"Nombres",
+  "LAST_NAME":"Apellidos",
+  "EMAIL":"Correo",
+  "SEND_THE_CODE":"Enviar el código",
+  "RECOVER_DATA_ACCESS":"Recuperar datos de acceso",
+  
+  "A_CODE_WILL_BE_SENT":"Se le enviará un código,",
+  "TO_THE_FOLLOWING_PHONE":"a la siguiente dirección de correo electrónico",
+  "NAME":"Nombre",
+  
+  
+  "HOME":"Inicio",
+  
+  "FULL_NAME": "Nombres",
+  
+  
+
+  "SEE_LOCATION":"Ver ubicación",
+  "STUDENT_CURRENT_LOCATION":"Ubicación actual del estudiante",
+  "MARK_ROTE":"Marcar ruta",
+  "TO":"Para",
+  "CODE": "Código",
+  "RECOVER_PASSWORD": "Recuperar contraseña",
+  "SUBJECT":"Tema",
+  "CALL_A_CONTACT":"Llamar a un contacto",
+  "PHONE":"Teléfono",
+  "CONTACT_INFORMATION_TO_CALL":"Datos del contacto a llamar",
+  "REPORT_NEWS":"Reportar novedades",
+  
+  "DRIVER":"Conductor",
+  "HIGH_SCHOOL":"Colegio",
+  "COMPLAINTS_AND_NEWS":"Quejas y novedades",
+  "SELECTED_OPTION":"Opción seleccionada",
+  "INFORMATION":"Información",
+  "WRITE_THE_NECESSARY_INFORMATION":"Escriba la información necesaria",
+  "DESCRIPTION":"Descripción",
+  "SEND":"Enviar",
+  "LOOK_FOR_SAFE_SITES":"Buscar sitios seguros",
+  "SAFE_SITES":"Sitios Seguros",
+  "TYPE_OF_SAFE_SITE":"Tipo de sitio seguro",
+  "YOUR_EMAIL_IS":"Tú correo es",
+  "SEND_CODE_OF_VERIFICATION":"Enviar código"
+}
+

@@ -1,0 +1,28 @@
+
+<ion-header>
+
+  <ion-navbar>
+    <ion-title text-center>{{'MY_UBICATION' | translate}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+
+    <ion-card-header text-center>
+        {{ 'CHOOSE_A_FRIEND' | translate }}
+    </ion-card-header>
+
+<ion-list>
+  <ion-item>
+    <ion-label>{{ 'FRIEND' | translate }}</ion-label>
+    <ion-select [(ngModel)]="gaming">
+      <ion-option value="nes">Mercy Herrera</ion-option>
+      <ion-option value="n64">Vicente Ocaña</ion-option>
+    </ion-select>
+  </ion-item>
+</ion-list>
+
+  <div class="p" #map id="map" ></div>
+</ion-content>

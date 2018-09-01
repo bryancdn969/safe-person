@@ -1,0 +1,37 @@
+<ion-header>
+
+  <ion-navbar>
+    <ion-title text-center>{{'LOGIN' | translate}}</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <h2 text-center> {{'ENTER_YOUR_DATA' | translate}} </h2>
+  <ion-list>
+    <form>
+      <ion-row>
+        <ion-col>
+          <ion-item>
+            <ion-input type="text"  name="username" placeholder= "USER_NAME"  [(ngModel)]="userData.email"
+                       autocapitalize="off" required></ion-input>
+          </ion-item>
+          <ion-item>
+            <ion-input type="password"  name="password" placeholder="PASSWORD"  [(ngModel)]="userData.password" required></ion-input>
+          </ion-item>
+        </ion-col>
+      </ion-row>
+    </form>
+  </ion-list>
+
+  <div padding>
+    <ion-row>
+      <ion-col>
+        <button ion-button block (click)="login()"> {{'ENTER' | translate}}
+        </button>
+      </ion-col>
+    </ion-row>
+  </div>
+
+</ion-content>
